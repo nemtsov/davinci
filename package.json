@@ -1,7 +1,7 @@
 {
-  "name": "stachio",
-  "version": "0.1.0",
-  "description": "Page / site put-together'er thingy.",
+  "name": "nikola",
+  "version": "0.0.1",
+  "description": "Page / site put-together'er thingy. (work in progress)",
   "main": "index.js",
   "author": "nemtsov@gmail.com",
   "license": "MIT"

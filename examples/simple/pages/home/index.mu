@@ -10,7 +10,7 @@
 
   <section>
     {{$content}}
-    <p>{{greeting}}</p>
+      <p>{{greeting}}</p>
     {{/content}}
   </section>
 </body>

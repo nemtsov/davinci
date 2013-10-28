@@ -28,5 +28,5 @@ function handlePage(name, req, res) {
 }
 
 server.listen(3000, function () {
-  console.log('Listening...');
+  console.log('Listening on http://localhost:3000/');
 })
